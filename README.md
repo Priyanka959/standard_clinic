@@ -7,8 +7,8 @@ A modern, high-performance, responsive web application for a premier dermatology
 ## 🌟 Previews
 
 ### Full Home Page
-*(Save your full-page screenshot as `home-page.png` in the project root to display it here)*
-![Home Page](./home-page.png)
+
+![Home Page](./frontend/public/home-page.png)
 
 
 ---
@@ -60,3 +60,4 @@ A modern, high-performance, responsive web application for a premier dermatology
 ## 🎨 Deployment
 
 Easily deployable on platforms like [Vercel](https://vercel.com/) natively integrating Next.js scaling out-of-the-box.
+
