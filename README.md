@@ -10,9 +10,6 @@ A modern, high-performance, responsive web application for a premier dermatology
 *(Save your full-page screenshot as `home-page.png` in the project root to display it here)*
 ![Home Page](./home-page.png)
 
-### Treatments & Services
-*(Save your partial screenshot as `treatments.png` in the project root to display it here)*
-![Treatments & Services](./treatments.png)
 
 ---
 
